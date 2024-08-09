@@ -1,4 +1,4 @@
-# eCommerce Shopping Website | PHP, HTML, CSS, JavaScript
+# eCommerce Shopping Website | PHP
 - Server : XAMPP (Cross platfrom, Apache, MySQL, PHP and Perl)
 - Editor : VS Code (Visual Studio Code)
 
