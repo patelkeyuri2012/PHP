@@ -7,7 +7,6 @@
 - Start your server
 - Create database in your server,
   - Database name : ecom
-  - Password : 
 - Load database file
 - Go to `http://localhost/<project_name>` in your browser
 
