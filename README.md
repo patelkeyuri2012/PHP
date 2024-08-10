@@ -5,7 +5,9 @@
   - `C:\xampp\htdocs\` folder (if you install xampp server)
   - `C:\wamp64\www\` folder (if you install wampp server)
 - Start your server
-- Create Database with name ecom
+- Create database in your server,
+  - Database name : ecom
+  - Password : 
 - Load database file
 - Go to `http://localhost/<project_name>` in your browser
 
