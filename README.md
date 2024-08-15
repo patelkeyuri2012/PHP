@@ -10,3 +10,9 @@
 - Load database file
 - Go to `http://localhost/<project_name>` in your browser
 
+- For download Wamp :
+  - Download exe file of WAMPSever from following link (https://wampserver.aviatechno.net/)
+
+- For download Xampp :
+  - Download exe file of XAMPPSever according to your OS from following link (https://www.apachefriends.org/download.html)
+
